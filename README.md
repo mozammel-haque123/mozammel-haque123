@@ -103,11 +103,11 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/RasedAh02580084?t=T71ZURyZM0BsXAfHfRQuQA&s=07" target="_blank">
+<a Take a look at Mozammel Haque Rased (@RasedAh02580084): https://x.com/RasedAh02580084?t=T71ZURyZM0BsXAfHfRQuQA&s=07" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 
-<a href="https://www.facebook.com/mozammel haque rased" target="_blank">
+<a href="https://www.facebook.com/mozammel haque rasedi" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
